@@ -1,0 +1,14 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\yassi\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.0.8
+[debug] Platform:     win32
+[debug] Node Version: v6.4.0
+[debug] Time:         Sun Oct 09 2016 17:10:27 GMT+0200 (W. Europe Daylight Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\xampp\htdocs\tutorials\firebaseWebChat
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000

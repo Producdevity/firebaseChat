@@ -1,10 +1,10 @@
 {
-  "databse": {
+  "database": {
     "rules": "database-rules.json"
   },
   "storage": {
-   "rules": "storage.rules"
- },
+    "rules": "storage.rules"
+  },
   "hosting": {
     "public": "./",
     "ignore": [
